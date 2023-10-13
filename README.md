@@ -1,4 +1,4 @@
-# results-summary-component-main
+# responsive-results-summary-component-main
 
 site: https://itzjter.github.io/results-summary-component-main/
 
